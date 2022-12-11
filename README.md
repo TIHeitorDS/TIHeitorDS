@@ -1,8 +1,8 @@
 ## Olá, meus caros! Eu sou Heitor Claudino 🤙
 
 <div>
-    <img height="180" alt="Heitor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TIHeitorDS&show_icons=true&theme=tokyonight">
-    <img height="180" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIHeitorDS&layout=compact&theme=tokyonight">
+    <img height="180" alt="Heitor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TIHeitorDS&show_icons=true&theme=tokyonight&card_width=380">
+    <img height="180" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIHeitorDS&layout=compact&theme=tokyonight&card_width=180">
 </div>
 
 ### Tecnologias que costumo utilizar
