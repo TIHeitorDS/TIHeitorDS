@@ -1,7 +1,6 @@
 ## Olá, meus caros! Eu sou Heitor Claudino 🤙
 
 <div>
-    <img height="180" alt="Heitor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TIHeitorDS&show_icons=true&theme=tokyonight&card_width=380">
     <img height="180" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIHeitorDS&layout=compact&theme=tokyonight&card_width=180">
 </div>
 
@@ -19,11 +18,5 @@
 <div>
     <a href="mailto:heitorclaudinods@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/1heitordantas/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/heitor-dantas-588323253/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
