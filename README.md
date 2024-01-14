@@ -1,17 +1,30 @@
-## Saudações meu caro ✌️
-
-<!-- Sobre mim -->
-| Sou Heitor e estou... |  |
-| :--- | --- |
-| <ul><li>Cursando Tecnologia da Informação (TI);</li><li>Interessado em Java; e</li><li>Vivendo e aprendendo.</li></ul> | ![giphy](https://github.com/TIHeitorDS/TIHeitorDS/assets/105075732/025b782b-968e-4f46-83a8-3eb8912a2177) |
-
-### Tecnologias e ferramentas que eu uso
-
+```Java
+public class Message {
+    public static void main(String[] args) {
+        System.out.println("HELLO EVERYBODY!!! MY NAME IS HEITOR.");
+    }
+}
+```
+### Languages
 <div>
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/ >
 </div>
 
-</br>
+### IDE
+ <div>   
+     <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)" />
+ </div>
+ 
+ ### Version control
+ <div>
+     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+ </div>
+
+ ### Libraries
+ <div>
+     <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+ </div>
