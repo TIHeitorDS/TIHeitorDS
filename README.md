@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/701f2286-59c3-43b1-b86f-5a5547bf631e)
-
 ### Languages
 <div>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
